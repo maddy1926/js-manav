@@ -22,4 +22,17 @@ let stringNumber1 = 33
 
 let StringNumber = String(stringNumber1)
 
-console.log(typeof StringNumber);
+//console.log(typeof StringNumber);
+
+
+
+//  ****************************Operations *****************************
+
+let 
+let value = 3
+let negvalue = -value
+
+console.log(negvalue);
+
+
+
