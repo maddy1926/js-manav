@@ -28,11 +28,17 @@ let StringNumber = String(stringNumber1)
 
 //  ****************************Operations *****************************
 
-let 
+
 let value = 3
 let negvalue = -value
 
-console.log(negvalue);
+//console.log(negvalue);
+
+//console.log( (3 + 4 )* (5-3));
+
+
+
+
 
 
 

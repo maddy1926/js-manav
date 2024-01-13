@@ -1,7 +1,7 @@
 "use strict"; // treat all JS code as newer version 
 
 // number = 2 
-// bigint
+// BigINt
 // string = ""
 // boolean = true/false
 // null => standalone value
