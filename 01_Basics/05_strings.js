@@ -39,8 +39,3 @@ const str = "Manav is my name"
 
 console.log(str.split( ));
 
-console.log(str.small('1'));
-
-
-
-
