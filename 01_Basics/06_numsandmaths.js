@@ -31,10 +31,16 @@ const oneNumber = 1000000000
 // console.log(Math.random());    //0 and 1 ke andar va;ue deti hai
 // console.log(Math.floor(Math.random()*10) + 1);
 
-const min = 5
-const max = 15
+// const min = 5
+// const max = 15
 
-console.log(Math.floor((Math.random() * (max - min ) + min)));
+//console.log(Math.floor((Math.random() * (max - min ) + min)));
+
+const min = 2
+const max = 5
+
+console.log(Math.floor((Math.random() * (max - min) + min )));
+
 
 
 
