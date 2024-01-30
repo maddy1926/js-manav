@@ -23,4 +23,14 @@ const obj2 = {3: "c", 4: "d"}
 
 const obj3 = {...obj1, ...obj2}
 
-console.log(obj3);
+// console.log(obj3);
+
+const Goc = {
+    
+    Name: "Manav Dixit",
+    Price: "123",
+    Desig: "Dev"
+}
+
+ const {Desig: designation} = Goc
+console.log(designation);
