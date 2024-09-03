@@ -1,6 +1,6 @@
 "use strict"; // treat all JS code as newer version 
 
-// number = 2 
+// number = 2 to the power of 53
 // BigINt
 // string = ""
 // boolean = true/false
