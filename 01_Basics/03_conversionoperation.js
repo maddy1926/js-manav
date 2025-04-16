@@ -17,6 +17,8 @@ let isloggedin = "Manav"
 
 let booleanisloggedin = Boolean(isloggedin);
 // console.log(booleanisloggedin);
+// "" > false
+// "Manav" > true
 
 let stringNumber1 = 33
 
